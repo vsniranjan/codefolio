@@ -5,5 +5,5 @@ export type Project = {
   image: string;
   url: string;
   date: string;
-  category: boolean;
+  category: string;
 };
